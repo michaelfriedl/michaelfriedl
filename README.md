@@ -16,11 +16,13 @@ Being lazy by nature, employ a wide range of tools to save me tedious work. Amon
   <li>gawk</li>
   <li>sed</li>
   <li>vba<p>
-    Most people think of vba 'record a macro, fiddle with it until it gives me a deprecation table'.
+    Most people think of vba  as to 'record a macro, fiddle with it until it gives me a deprecation table'.
     Does creating linked lists, hashtables, custom collation and quick sort sound like an MS Word template?
     You bet, it does. You will find such weirdness in my public repositories soon.
   </p></li>
   </ul>
+
+Since around 1985 I have been working mainly for chemical and pharmaceutical industries, covering a wide range of projects.
 
 <!---
 michaelfriedl/michaelfriedl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
