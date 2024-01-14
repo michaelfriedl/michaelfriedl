@@ -24,30 +24,32 @@ Being lazy by nature, I do employ a wide range of tools to save me from tedious 
     Does creating linked lists, hashtables, custom collation and quick sort sound like an MS Word template?
     You bet, it does. You will find such weirdness in my public repositories soon.
   </p></li>
+</ul>
   
-  ## Favorite Applications
-  <ul>
-  <li>Excel></li>
-  <li>vim (or gVim)</li>
-  <li>notepad++</li>
-  <li>Visual Studio (since 2003)</li>
-  <li>Visio</li>
-  <li>Inkscape</li>
-  <li></li>
-  </ul>
+## Favorite Applications
+ <ul>
+ <li>Excel></li>
+ <li>vim (or gVim)</li>
+ <li>notepad++</li>
+ <li>Visual Studio (since 2003)</li>
+ <li>Visio</li>
+ <li>Inkscape</li>
+ <li></li>
+ </ul>
 
 
 ## Favorite books
-My favorite books? The thinnest and dearest is certainly
-"Compiler Construction" by Niklas Wirth The pages came lose long since, I still have it in the shelf closest to my workplace. 
+My favorite books? The thinnest of them is nonetheless my dearest, leading the top of my list:
+* "Compiler Construction" by Niklas Wirth. The pages came lose long since, I still have it in the shelf closest to my workplace.
+* "The texbook" by Donald Knuth - yes, blue and spiral-bound
+* "Mastering Regular Expressions" by Jeffrey E.F.Friedl
 * "sed & awk", by Dale Dougherty & Arnold Robbins
 * "Practival Vim" by Drew Neil
-* "Mastering Regular Expressions" by Jeffrey E.F.Friedl
 * "Programming WCF Services" by Juval L&ouml;wy & Michael Montgomery
-* "The texbook" by Donald Knuth - yes, blue and spiral-bound
 * "Physics" by Jay Orear. My copy is pretty battered, still use it. You can't conscientiously work as a software engineer without understanding thermodynamics. Enthropy is a real thing, people! 
 * "Ordinary Differential Equations" by Morris Tenenbaum & Harry Pollard. Great bedside read. Not joking. Helped me pass my math exams. 
 * "Electronic Devices" by Thomas L. Floyd. If that one doesn't make you fall in love with depletion layers, diodes, MOSFETS, breadboards and operational amplifiers!
+* "Electrical Engineer's Reference Book" edited by M.A. Laughton & D.F.Warne. Weighing close to 10 lbs., it is the Encyclopedia Brittanica of Volts, Amperes and Ohms.
 <!---
 michaelfriedl/michaelfriedl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. https://github.com/michaelfriedl/michaelfriedl/tree/main
