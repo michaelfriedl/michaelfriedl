@@ -24,6 +24,7 @@ Being lazy by nature, I do employ a wide range of tools to save me from tedious 
     Does creating linked lists, hashtables, custom collation and quick sort sound like an MS Word template?
     You bet, it does. You will find such weirdness in my public repositories soon.
   </p></li>
+  
   ## Favorite Applications
   <ul>
   <li>Excel></li>
@@ -36,7 +37,7 @@ Being lazy by nature, I do employ a wide range of tools to save me from tedious 
   </ul>
 
 
-### Favorite books
+## Favorite books
 My favorite books? The thinnest and dearest is certainly
 "Compiler Construction" by Niklas Wirth The pages came lose long since, I still have it in the shelf closest to my workplace. 
 * "sed & awk", by Dale Dougherty & Arnold Robbins
